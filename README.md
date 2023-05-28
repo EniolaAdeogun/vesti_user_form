@@ -32,7 +32,7 @@ https://github.com/EniolaAdeogun/vesti_user_form/assets/111467944/2aab8239-281d-
 
 ## State Management
 
-For the state management in this project, I primarily used Flutter's built-in state management technique called `setState`. By using `setState`, I could efficiently update the form fields and trigger a UI rebuild when the state changed. Additionally, for more complex state management scenarios, I explored other state management solutions such as Provider, Riverpod, or GetX, which provide more advanced features and scalability.
+For the state management in this project, I primarily used Flutter's built-in state management technique called `setState`. By using `setState`, I could efficiently update the form fields and trigger a UI rebuild when the state changed. Additionally, for more complex state management scenarios, I explored GetX, which provides more advanced features and scalability.
 
 ## Project Structure
 
